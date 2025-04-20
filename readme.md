@@ -56,6 +56,7 @@ python -m streamlit run renderPage.py
 
 This will start the Streamlit server and open the app in your default web browser.
 
-Here you can query the pdf located inside directory
+here you can enter youtube url to summarize script.
 
+![alt text](<Screenshot 2025-04-20 at 5.58.47 PM.png>)
 ---
